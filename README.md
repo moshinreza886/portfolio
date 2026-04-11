@@ -70,6 +70,8 @@ A smart task management web application that helps users organize and manage tas
 
 ![AI Usages](Screenshot_20260410_145825.jpg)
 
+![Dark Mode](Screenshot_20260410_145938.jpg)
+
 ---
 
 ### 💻 Tech Stack
