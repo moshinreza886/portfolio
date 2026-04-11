@@ -62,7 +62,7 @@ A smart task management web application that helps users organize and manage tas
 
 ### 📸 Screenshots
 
-![Home]()
+![Home](Screenshot_20260410_145725.jpg)
 
 ![Tasks](screenshots/tasks.png)
 
