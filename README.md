@@ -40,11 +40,43 @@ I specialize in using **AI tools to speed up development**, improve creativity, 
 
 ## 🚧 Projects (Currently in Development)
 
-### 🔹 AI-Powered Task Manager (Web App)
-- A modern task management system
-- AI-based task suggestions and automation
-- Built with React + Node.js
+## 🚀 Project 1: AI Task Manager (Web App)
 
+### 📌 Description
+A smart task management web application that helps users organize and manage tasks efficiently. This project was developed using AI-assisted tools to improve speed and productivity.
+
+---
+
+### ⚙️ Features
+- Add, update, and delete tasks
+- Clean and responsive UI
+- Fast performance
+- Built with AI-assisted development
+
+---
+
+### 🌐 Live Demo
+👉 https://your-replit-link-here
+
+---
+
+### 📸 Screenshots
+
+![Home]()
+
+![Tasks](screenshots/tasks.png)
+
+---
+
+### 💻 Tech Stack
+- Frontend: HTML, CSS, JavaScript (or React if used)
+- Backend: Node.js (if used)
+- Hosting: Replit
+
+---
+
+### 🧠 Development Note
+This project was built using AI tools to speed up development and deliver efficient results.
 ---
 
 ### 🔹 AI Voice Messenger (Web App)
