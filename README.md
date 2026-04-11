@@ -62,23 +62,33 @@ A smart task management web application that helps users organize and manage tas
 
 ### 📸 Screenshots
 
+
 1.HOME PAGE LAYOUT
+
 
 ![Home](Screenshot_20260410_145725.jpg)
 
+
 2.TASKS PANEL LAYOUT
+
 
 ![Tasks](Screenshot_20260410_145734.jpg)
 
+
 3.HOW TO CREATE NEW TASKS? LAYOUT
+
 
 ![Create New tasks](Screenshot_20260410_145745.jpg)
 
-USE OF AI IN MANAGEMENT OF TASKS
+
+4.USE OF AI IN MANAGEMENT OF TASKS
+
 
 ![AI Usages](Screenshot_20260410_145825.jpg)
 
-DARK MODE LOOKS
+
+5.DARK MODE LOOKS
+
 
 ![Dark Mode](Screenshot_20260410_145938.jpg)
 
