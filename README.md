@@ -75,8 +75,8 @@ A smart task management web application that helps users organize and manage tas
 ---
 
 ### 💻 Tech Stack
-- Frontend: HTML, CSS, JavaScript (or React if used)
-- Backend: Node.js (if used)
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js
 - Hosting: Replit
 
 ---
