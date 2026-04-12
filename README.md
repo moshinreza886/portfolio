@@ -195,7 +195,11 @@ The goal of this project is to demonstrate voice-controlled UI interaction and m
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+LOGIN PAGE INTERFACE
+![Login Page](IMG_20260412_113931.jpg)
+
+VERIFICATION PAGE INTERFACE
+![VERIFICATION](
 
 ---
 
