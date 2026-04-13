@@ -11,7 +11,7 @@ I am a passionate developer focused on building real-world AI-based apps.
 
 All my projects are:
 - 📱 Built using mobile phone only
-- 🤖 Developed with AI tools + my own coding
+- 🤖 Developed with AI tools(less) + my own coding(more)
 - 💡 Based on my own ideas and concepts
 
 ⚠️ These are **working prototypes**, not full production systems.  
