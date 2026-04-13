@@ -19,7 +19,7 @@ They are built to demonstrate my creativity, problem-solving, and freelancing po
 
 Even with limited resources, I have successfully built and deployed **4 advanced AI web apps**.
 
-Now, with better setup, I can deliver **high-quality professional solutions**.
+Now,I have bought a powerful computer system for freelancing now, with better setup, I can deliver **high-quality professional solutions**.
 
 ---
 
