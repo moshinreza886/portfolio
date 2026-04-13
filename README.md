@@ -335,11 +335,16 @@ Example:
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
 - Dashboard UI
-- Voice input active
-- AI response output
-- Workout tracking screen
+  ![Dashboard](IMG_20260413_111207.jpg)
+- Workouts Page
+  ![Workouts](IMG_20260413_111501.jpg)
+- Voice Input System
+  ![Voice Input](IMG_20260413_111800.jpg)
+- AI Response Output
+  ![AI Response](IMG_20260413_112105.jpg)
+- Profile Page
+  ![Profile](IMG_20260413_112301.jpg)
 
 ---
 
