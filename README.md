@@ -448,7 +448,12 @@ This system is designed as a **plug-and-play chatbot widget** for real-world int
 
 ## 📸 Screenshots
 
-(Add chatbot UI screenshots here)
+- HOME PAGE UI
+  ![Home page](Screenshot_20260413_152439.jpg)
+- AI chat UI
+  ![Chat](Screenshot_20260413_152516.jpg)
+- Dark theme UI
+  ![Dark](Screenshot_20260413_152521.jpg)
 
 ---
 
